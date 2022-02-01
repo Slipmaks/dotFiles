@@ -6,7 +6,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "workbench.colorTheme": "Vue-solarized darker",
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
@@ -15,5 +14,6 @@
   "bracket-pair-colorizer-2.depreciation-notice": false,
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "terminal.integrated.fontFamily": "NotoSansMono Nerd Font"
+  "terminal.integrated.fontFamily": "MesloLGM NF",
+  "workbench.colorTheme": "Vue-solarized"
 }
